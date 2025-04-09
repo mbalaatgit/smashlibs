@@ -23,7 +23,7 @@ const Map<String, Map<String, String>> DEFAULT_FORM_ITEMS = {
     {
       "key": "text_area_key",
       "label": "text area label",
-      "value": "default value 1\ndefault value 2",
+      "value": "default value 1 default value 2",
       "type": "$TYPE_STRINGAREA"
     }"""
   },
